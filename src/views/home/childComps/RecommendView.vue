@@ -1,4 +1,4 @@
-<template>
+ <template>
   <div class="recommend">
     <div v-for="item in recommends" class="recommend-item">
       <a :href="item.link">
